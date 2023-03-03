@@ -2,7 +2,7 @@
 - 这是一款刷题类应用程序，主要功能包括题库刷题、模拟考试、错题集、科目授权等。
 
 ## 2. 技术架构
-- 后端：FastAPI、PostgreSQL、Redis、Auth0
+- 后端：FastAPI、MySQL、Redis、Auth0
 - 前端：React、Bootstrap
 ## 3. 数据模型
 ### 项目包括以下模型：
